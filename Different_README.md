@@ -23,24 +23,3 @@
 
 ## coala-html
 - DEMO: demo working
-
-## coala-css
-- README only has name, short description and logo.
-
-## bearsh
-- No README
-
-## rultor-python
-- README only has name and short description.
-
-## coala-eclipse
-- Whole README needs updating as per new template
-
-## coala-gedit
-- README only has installation step.
-
-## docker-coala-base
-- README is outdated, needs full update as per new template
-
-## coala-emacs
-- README needs update as per new template
