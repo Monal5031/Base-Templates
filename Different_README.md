@@ -22,4 +22,4 @@
 - Under brewing: Mentions corobo is under progress to make it usable for other orgs.
 
 ## coala-html
-- DEMO: demo working
+- DEMO: working of plugin as gif.
