@@ -1,3 +1,6 @@
+[coala-quickstart](https://github.com/coala/coala-quickstart/blob/master/README.rst) this is the README we need to
+generate for templating. All points covered below.
+
 <!-- Here it starts-->
 # Name Of Repository
 

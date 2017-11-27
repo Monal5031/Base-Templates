@@ -1,7 +1,3 @@
-[coala-quickstart](https://github.com/coala/coala-quickstart/blob/master/README.rst) this is the README we need to
-generate for templating. All points covered below.
-
-
 ## Following things in the respective repos only.
 
 ## coala-bears
